@@ -1,0 +1,472 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.3f1 (8ff31bc5bf5b) revision 9433883'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.928; Version 2009; 64bit' Language: 'ru' Physical Memory: 16316 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/kelvi/Desktop/Project/olomlho
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50421
+Successfully changed project path to: C:/Users/kelvi/Desktop/Project/olomlho
+C:/Users/kelvi/Desktop/Project/olomlho
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 46.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.3f1 (8ff31bc5bf5b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/kelvi/Desktop/Project/olomlho/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 3GB (ID=0x1b84)
+    Vendor:   
+    VRAM:     2988 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56312
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004525 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 47.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.287 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001392 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 50.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.133 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1948 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.9 MB.
+System memory in use after: 93.0 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2399.
+Total: 2.402100 ms (FindLiveObjects: 0.269400 ms CreateObjectMapping: 0.058500 ms MarkObjects: 1.995400 ms  DeleteObjects: 0.077200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/sprite/Tiles/_lock_5.asset
+  artifactKey: Guid(4d1d4d4d1f606db41a54e9551ba5c64a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_5.asset using Guid(4d1d4d4d1f606db41a54e9551ba5c64a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae4d4a038d7c913d6ed86bfeaeba477e') in 0.144368 seconds
+  Import took 0.148640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000480 seconds.
+  path: Assets/sprite/Tiles/_lock_13.asset
+  artifactKey: Guid(193f74332561cd94fb812ce905b2a86f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_13.asset using Guid(193f74332561cd94fb812ce905b2a86f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd37840ba6a874b0c30236cb6de824832') in 0.007858 seconds
+  Import took 0.011059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/sprite/Tiles
+  artifactKey: Guid(ff84b23fb10c7d848a72912a7eb0baee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles using Guid(ff84b23fb10c7d848a72912a7eb0baee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd1ecfd5db691f265b35b0bfe86a4acf') in 0.003142 seconds
+  Import took 0.006627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/sprite/Tiles/_lock_30.asset
+  artifactKey: Guid(7e17798d6d518ac459af6452e7ecc2e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_30.asset using Guid(7e17798d6d518ac459af6452e7ecc2e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a73ab7b2edc8f9202ea7f7224729634') in 0.007760 seconds
+  Import took 0.010960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/sprite/Tiles/_lock_25.asset
+  artifactKey: Guid(0da0f90a4aabdb54aacf29e223ad5cd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_25.asset using Guid(0da0f90a4aabdb54aacf29e223ad5cd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcf538342aa68abb13b9830b385fd1a3') in 0.008237 seconds
+  Import took 0.011890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/sprite/Tiles/_lock_19.asset
+  artifactKey: Guid(d24db154df1690c4e828ed0c2bbc2893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_19.asset using Guid(d24db154df1690c4e828ed0c2bbc2893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '972d3c4508e258c5af144e04ab5b6c39') in 0.007883 seconds
+  Import took 0.011356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/sprite/Tiles/блоки зеленые орто сир киэнэ 1_1.asset
+  artifactKey: Guid(c50cd8d7d12d90e42b2c4b392597972a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/блоки зеленые орто сир киэнэ 1_1.asset using Guid(c50cd8d7d12d90e42b2c4b392597972a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1edd495c547da48f155d7085365abcee') in 0.007781 seconds
+  Import took 0.011035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000541 seconds.
+  path: Assets/sprite/Tiles/_lock_10.asset
+  artifactKey: Guid(72df6f3c865f87841b7dab1e178b28aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_10.asset using Guid(72df6f3c865f87841b7dab1e178b28aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eaaa29863f30f5f6848a4313f023bed') in 0.008194 seconds
+  Import took 0.011819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/sprite/Tiles/_lock_28.asset
+  artifactKey: Guid(02c438c70bb1ef6479c2b7b6f25de310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_28.asset using Guid(02c438c70bb1ef6479c2b7b6f25de310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d4ee9e2063edb96b509cab0bb040a6c') in 0.007707 seconds
+  Import took 0.011021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/sprite/Tiles/блоки зеленые орто сир киэнэ 1_0.asset
+  artifactKey: Guid(a43b29be9e5ec604f8ae47543993c8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/блоки зеленые орто сир киэнэ 1_0.asset using Guid(a43b29be9e5ec604f8ae47543993c8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bbf4800ddf81b575bc4419cef9190e0') in 0.008153 seconds
+  Import took 0.011684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/sprite/Tiles/блоки зеленые орто сир киэнэ 1_6.asset
+  artifactKey: Guid(def0f6a03ade4e54382d140c884a853f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/блоки зеленые орто сир киэнэ 1_6.asset using Guid(def0f6a03ade4e54382d140c884a853f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51b85045926afc89f51decf4c818acac') in 0.007061 seconds
+  Import took 0.010542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/sprite/Tiles/_lock_22.asset
+  artifactKey: Guid(8b0556705fd9d68449125c151b614565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_22.asset using Guid(8b0556705fd9d68449125c151b614565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81857f4d3277a7d235aac2353f076de8') in 0.007779 seconds
+  Import took 0.011041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/sprite/Tiles/_lock_9.asset
+  artifactKey: Guid(75e81a0a17e9fa145893b38c73da4901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_9.asset using Guid(75e81a0a17e9fa145893b38c73da4901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de49cc6586fa827ff910f63f29655753') in 0.007597 seconds
+  Import took 0.011223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/sprite/Tiles/_lock_23.asset
+  artifactKey: Guid(dcea13d057bd7864c89dcae012b0909e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_23.asset using Guid(dcea13d057bd7864c89dcae012b0909e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7906f09ae2b0e1850bc0c33385650cb5') in 0.007534 seconds
+  Import took 0.011090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000533 seconds.
+  path: Assets/sprite/Tiles/_lock_6.asset
+  artifactKey: Guid(e21220e70702d094d94f88bff13999a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_6.asset using Guid(e21220e70702d094d94f88bff13999a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad87a96b538a5c21738cd7fec1a3c831') in 0.007491 seconds
+  Import took 0.011345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000393 seconds.
+  path: Assets/sprite/Tiles/_lock_18.asset
+  artifactKey: Guid(a9b5fcf9219e91148ba99325aed4ebed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_18.asset using Guid(a9b5fcf9219e91148ba99325aed4ebed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a13ab41a0d8d484faad80cfe4f2f1ae') in 0.007306 seconds
+  Import took 0.010777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/sprite/Tiles/блоки зеленые орто сир киэнэ 1_10.asset
+  artifactKey: Guid(45ce70902072ee64eb0ea0dad6e5d728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/блоки зеленые орто сир киэнэ 1_10.asset using Guid(45ce70902072ee64eb0ea0dad6e5d728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df01c8dd9cbcf7fa189f52336fa7cce1') in 0.007008 seconds
+  Import took 0.010588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/sprite/Tiles/_lock_27.asset
+  artifactKey: Guid(2b159af1c01134344b6a5fbcdcaffd2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_27.asset using Guid(2b159af1c01134344b6a5fbcdcaffd2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '066c102df07ac6a52bc91cc8007b2fb9') in 0.007455 seconds
+  Import took 0.010743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/sprite/Tiles/_lock_2.asset
+  artifactKey: Guid(8cd645e2f61967048b013254d823b8f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_2.asset using Guid(8cd645e2f61967048b013254d823b8f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04926152ef23deaf1189b006d7e673e3') in 0.007412 seconds
+  Import took 0.010726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/sprite/Tiles/_lock_0.asset
+  artifactKey: Guid(ab5330366b7a5924a91514dfc066d021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_0.asset using Guid(ab5330366b7a5924a91514dfc066d021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffa063bb2dc94250a5ffe35916fac4d2') in 0.007260 seconds
+  Import took 0.010507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/sprite/Tiles/_lock_21.asset
+  artifactKey: Guid(2d8b29eeb7ff83a4d99b3874feb7dd51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_21.asset using Guid(2d8b29eeb7ff83a4d99b3874feb7dd51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d846b336f76de4782d1021a62cf419b') in 0.007443 seconds
+  Import took 0.011013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/sprite/Tiles/_lock_3.asset
+  artifactKey: Guid(979f5049fcd669f408a14297015bf971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_3.asset using Guid(979f5049fcd669f408a14297015bf971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dc93bdb9402b336d474d0a5748c2e10') in 0.007871 seconds
+  Import took 0.011180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/sprite/Tiles/блоки зеленые орто сир киэнэ 1_2.asset
+  artifactKey: Guid(d863daf58290cdb46a385c742ce5647e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/блоки зеленые орто сир киэнэ 1_2.asset using Guid(d863daf58290cdb46a385c742ce5647e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '718d5638350660c9aafb90db7030da5f') in 0.008633 seconds
+  Import took 0.012887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/sprite/Tiles/блоки зеленые орто сир киэнэ 1_3.asset
+  artifactKey: Guid(c37c05cb1fe43214881be3175465e667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/блоки зеленые орто сир киэнэ 1_3.asset using Guid(c37c05cb1fe43214881be3175465e667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf743e95b25eae1e1df816a8fe5ad499') in 0.007324 seconds
+  Import took 0.010960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/sprite/Tiles/_lock_12.asset
+  artifactKey: Guid(c029209ae6918fa43b4437bd89651068) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_12.asset using Guid(c029209ae6918fa43b4437bd89651068) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d96eb10cc485a26715603b764d42f24') in 0.007657 seconds
+  Import took 0.010866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/sprite/Tiles/_lock_16.asset
+  artifactKey: Guid(5ef0b4bb7fe3a2f49981e958fc323657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_16.asset using Guid(5ef0b4bb7fe3a2f49981e958fc323657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00220746342f498619d147bb0a3e016c') in 0.008751 seconds
+  Import took 0.012537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/sprite/Tiles/блоки зеленые орто сир киэнэ 1_11.asset
+  artifactKey: Guid(e5880e6c65b602a41bd6a31cedd2587d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/блоки зеленые орто сир киэнэ 1_11.asset using Guid(e5880e6c65b602a41bd6a31cedd2587d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70211e03396f6a96dbb8809046833411') in 0.006475 seconds
+  Import took 0.009600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/sprite/Tiles/блоки зеленые орто сир киэнэ 1_5.asset
+  artifactKey: Guid(66392c123fc5a7141a7254d31bd0cf72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/блоки зеленые орто сир киэнэ 1_5.asset using Guid(66392c123fc5a7141a7254d31bd0cf72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4ee96796790cfdcbc9c66736ec80989') in 0.006577 seconds
+  Import took 0.009764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/sprite/Tiles/_lock_32.asset
+  artifactKey: Guid(70b5b13c2e61bfc478c7df53c141030f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_32.asset using Guid(70b5b13c2e61bfc478c7df53c141030f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4451dda379d84c1046211518c69e1bce') in 0.007879 seconds
+  Import took 0.011809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/sprite/Tiles/_lock_1.asset
+  artifactKey: Guid(9bbeccb1f79aea248bd311a5530ff7d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_1.asset using Guid(9bbeccb1f79aea248bd311a5530ff7d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c8a96c097be55f162f2c9a7617565b4') in 0.007438 seconds
+  Import took 0.010919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/sprite/Tiles/_lock_33.asset
+  artifactKey: Guid(26a21de82afeb0240a5eb6db5cece0a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_33.asset using Guid(26a21de82afeb0240a5eb6db5cece0a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd83c6e5062ad6ac74630362d45070bc8') in 0.008073 seconds
+  Import took 0.011481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/sprite/Tiles/_lock_11.asset
+  artifactKey: Guid(1f887294b1d07fe488c7455089af5fd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_11.asset using Guid(1f887294b1d07fe488c7455089af5fd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6649584354a7f7c5c4179bc244fc5f6c') in 0.007382 seconds
+  Import took 0.011056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/sprite/Tiles/hell
+  artifactKey: Guid(85456ba5bee90ce44b5b7cdf9519dfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/hell using Guid(85456ba5bee90ce44b5b7cdf9519dfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04f491d4c0f538b7fd4357b095730aed') in 0.002887 seconds
+  Import took 0.006103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/sprite/Tiles/_lock_26.asset
+  artifactKey: Guid(b0bec42314eec77439c2c3d88ae6ca84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_26.asset using Guid(b0bec42314eec77439c2c3d88ae6ca84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eebf02a6dc0f1b746af13b8a1d76e69d') in 0.007482 seconds
+  Import took 0.010776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/sprite/Tiles/_lock_17.asset
+  artifactKey: Guid(9165893d1edfa554298e49a0247cdc95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_17.asset using Guid(9165893d1edfa554298e49a0247cdc95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '161f25280e44f80dc4a52963f0ca5e49') in 0.007416 seconds
+  Import took 0.011177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/sprite/Tiles/блоки зеленые орто сир киэнэ 1_4.asset
+  artifactKey: Guid(9be4e87fa5c075242af2ea766c17444a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/блоки зеленые орто сир киэнэ 1_4.asset using Guid(9be4e87fa5c075242af2ea766c17444a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48c13203ca23b8d33c52848edbdd0504') in 0.007086 seconds
+  Import took 0.010319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/sprite/Tiles/блоки зеленые орто сир киэнэ 1_8.asset
+  artifactKey: Guid(551345cad3f4b7d40aeec1b1e85dd4c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/блоки зеленые орто сир киэнэ 1_8.asset using Guid(551345cad3f4b7d40aeec1b1e85dd4c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '767935b353bc86475fe4da88d39348d2') in 0.006701 seconds
+  Import took 0.010255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/sprite/Tiles/_lock_29.asset
+  artifactKey: Guid(b5e038ae3f798a24c9ae9194a169ccfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_29.asset using Guid(b5e038ae3f798a24c9ae9194a169ccfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31206c1ec014f135ebe61f64a1d68e87') in 0.007320 seconds
+  Import took 0.010631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/sprite/Tiles/блоки зеленые орто сир киэнэ 1_9.asset
+  artifactKey: Guid(a4893f12285b96249b073098fa1c51d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/блоки зеленые орто сир киэнэ 1_9.asset using Guid(a4893f12285b96249b073098fa1c51d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f03325f66c8d53aba487612d51d27ef') in 0.006629 seconds
+  Import took 0.010063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/sprite/Tiles/_lock_8.asset
+  artifactKey: Guid(35c146cf494295d47b933bc3800f2cf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_8.asset using Guid(35c146cf494295d47b933bc3800f2cf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd3038094885809b87c9bcb19e827628') in 0.007709 seconds
+  Import took 0.011956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000442 seconds.
+  path: Assets/sprite/Tiles/_lock_15.asset
+  artifactKey: Guid(f2fe3c8a84acb4b47ae67ee29ac76933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_15.asset using Guid(f2fe3c8a84acb4b47ae67ee29ac76933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e346bb562601d92495c4c5be5bc117cf') in 0.007142 seconds
+  Import took 0.010753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/sprite/Tiles/_lock_20.asset
+  artifactKey: Guid(0e4ff30c3307ae94e9252abd583dd435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_20.asset using Guid(0e4ff30c3307ae94e9252abd583dd435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe4e68d26e10bc855cb5a6d5a29de101') in 0.007452 seconds
+  Import took 0.010619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/sprite/Tiles/_lock_7.asset
+  artifactKey: Guid(7436a943bc9c10c49bc4c6f9d734db84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_7.asset using Guid(7436a943bc9c10c49bc4c6f9d734db84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a806eb2799c3a610eea4c775cd87523d') in 0.007292 seconds
+  Import took 0.010813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/sprite/Tiles/_lock_31.asset
+  artifactKey: Guid(b98b920945420944caa7df5a527ce140) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_31.asset using Guid(b98b920945420944caa7df5a527ce140) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1940e0b6d135a6fbc8ec7325156a4be') in 0.007493 seconds
+  Import took 0.010745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/sprite/Tiles/_lock_24.asset
+  artifactKey: Guid(0f8a0a9dec5e74c44920a276fe3e0634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_24.asset using Guid(0f8a0a9dec5e74c44920a276fe3e0634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '714249a91fa229de99dd89156802e775') in 0.007341 seconds
+  Import took 0.010512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/sprite/Tiles/блоки зеленые орто сир киэнэ 1_7.asset
+  artifactKey: Guid(377c44dc9d21d5b4c8364719ca3e4bea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/блоки зеленые орто сир киэнэ 1_7.asset using Guid(377c44dc9d21d5b4c8364719ca3e4bea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01e18e3e0650176efad44b86dc78f4d0') in 0.006947 seconds
+  Import took 0.010227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/sprite/Tiles/_lock_4.asset
+  artifactKey: Guid(b731715100e910d47a829393a9018c40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_4.asset using Guid(b731715100e910d47a829393a9018c40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51f88e5bea8b9590764292d9556b9ff1') in 0.007591 seconds
+  Import took 0.010956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/sprite/Tiles/_lock_14.asset
+  artifactKey: Guid(59c6896afaed4364189d2fa490c2f813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/Tiles/_lock_14.asset using Guid(59c6896afaed4364189d2fa490c2f813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c7183836fe66219ca51893ac2266d4f') in 0.007307 seconds
+  Import took 0.010870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 495.004432 seconds.
+  path: Assets/Scenes/lern.unity
+  artifactKey: Guid(a900f08c54612ae4896f6ffc73837ee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/lern.unity using Guid(a900f08c54612ae4896f6ffc73837ee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bb5013d5271b152f6a82c83ca66bfe7') in 0.003956 seconds
+  Import took 0.008311 seconds .
+
