@@ -691,7 +691,7 @@ Transform:
   - {fileID: 1999358977}
   - {fileID: 1928119761}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &268014748
 MonoBehaviour:
@@ -706,7 +706,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 4
-  JumpForce: 4
+  JumpForce: 5
   health: 8
   numOfHearts: 4
   hearts:
@@ -1117,7 +1117,7 @@ Transform:
   - {fileID: 710297547}
   - {fileID: 1308387024}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &587700673 stripped
 MonoBehaviour:
@@ -1816,7 +1816,7 @@ PrefabInstance:
     - target: {fileID: 1405187252136871957, guid: 9c3ee6632daa5c7498fed4c9402dfeb4,
         type: 3}
       propertyPath: m_RootOrder
-      value: 7
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 1405187252136871957, guid: 9c3ee6632daa5c7498fed4c9402dfeb4,
         type: 3}
@@ -2929,9 +2929,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 268014745}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
+      - m_Target: {fileID: 268014748}
+        m_TargetAssemblyTypeName: PlayerControlller, Assembly-CSharp
+        m_MethodName: OnJumpButtonDown
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
