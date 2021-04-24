@@ -59,6 +59,8 @@
      <Compile Include="Assets\skript\gamemenu\VolumeValue.cs" />
      <Compile Include="Assets\skript\attack\PlayerAttack.cs" />
      <Compile Include="Assets\skript\attack\Enemy.cs" />
+     <Compile Include="Assets\skript\PlatformMove.cs" />
+     <Compile Include="Assets\skript\attack\idoitEnemy.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
      <None Include="Assets\other\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\other\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
